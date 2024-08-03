@@ -6,6 +6,9 @@ public class sosnu {
 		System.out.println("Hello word sos nu with love");
 		System.out.println("Hello word sos nu with love");
 		System.out.println("Hello word sos nu with love");
+		System.out.println("Hello word sos nu with love");
+		System.out.println("checkout sosnujava");
+		System.out.println("checkout sosnujava");
 
 	}
 }
